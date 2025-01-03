@@ -1,0 +1,33 @@
+Bài 1:
+https://www.tutorialspoint.com/weka/weka_preprocessing_data.htm
+
+Bài 2:
+https://builtin.com/machine-learning/how-to-preprocess-data-python
+https://learnpython.com/blog/how-to-summarize-data-in-python/
+
+Bài 3:
+https://pyshark.com/how-to-normalize-data-in-python/#how-to-normalize-data-in-python
+https://www.digitalocean.com/community/tutorials/normalize-data-in-python
+https://www.turing.com/kb/data-normalization-with-python-scikit-learn-tips-tricks-for-data-science
+https://miai.vn/2021/04/22/principal-component-analysis-pca-tuyet-chieu-giam-chieu-du-lieu/
+
+Bài 4:
+https://www.kaggle.com/code/hamelg/python-for-data-21-descriptive-statistics/notebook
+https://towardsdatascience.com/a-quick-guide-on-descriptive-statistics-using-pandas-and-seaborn-2aadc7395f32
+
+Bài 5:
+https://www.w3schools.com/python/python_ml_linear_regression.asp
+https://www.kaggle.com/code/rtatman/datasets-for-regression-analysis/notebook
+
+Bài 6:
+https://www.kaggle.com/code/rtatman/datasets-for-regression-analysis/notebook
+https://www.w3schools.com/python/python_ml_logistic_regression.asp
+https://www.kaggle.com/code/davious/candy-data-logistic-regression-winpercent/notebook
+
+
+Bài 7.
+https://networkx.org/documentation/stable/reference/algorithms/generated/networkx.algorithms.community.quality.modularity.html
+https://zhiyzuo.github.io/python-modularity-maximization/doc/quick-start.html
+https://python-louvain.readthedocs.io/en/latest/api.html
+https://www.kaggle.com/code/rahulgoel1106/commmunity-detection-using-igraph-and-networkx
+
